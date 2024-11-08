@@ -1,3 +1,10 @@
+# Mac OS
+.DS_Store
+
+# Session logs
+Session_logs/
+storage/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
